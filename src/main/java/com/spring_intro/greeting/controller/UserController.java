@@ -12,5 +12,6 @@ public class UserController {
     public String sayHello() {
         // Returns a simple greeting message as the HTTP response
         return "Hello From BridgeLabz";
+
     }
 }
